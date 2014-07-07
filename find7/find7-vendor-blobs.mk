@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/find7/proprietary/etc/firmware/audience-es325-fw.bin:system/etc/firmware/audience-es325-fw.bin \
     vendor/oppo/find7/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/oppo/find7/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/oppo/find7/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/oppo/find7/proprietary/vendor/lib/liboi_sbc_decoder.so:system/vendor/lib/liboi_sbc_decoder.so \
     vendor/oppo/find7/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/oppo/find7/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \

@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt vendor/libs needed for compilation
 PRODUCT_PACKAGES += \
+    libbtnv \
     libHevcSwDecoder \
     libmm-abl \
     libtime_genoff
