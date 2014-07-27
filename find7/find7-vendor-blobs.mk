@@ -100,7 +100,6 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/find7/proprietary/bin/quipc_main:system/bin/quipc_main \
     vendor/oppo/find7/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/oppo/find7/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/oppo/find7/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/oppo/find7/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/oppo/find7/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/oppo/find7/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
